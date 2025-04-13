@@ -1,6 +1,6 @@
 # Data Analytics Project Overview
 ## "Unlocking Insights from Data – A Comprehensive Data Analytics Project"
-===
+
 
 ### 🌟 Objective:
 The primary objective of this data analytics project is to transform raw data into actionable insights that can drive strategic decision-making. This involves data collection, cleaning, analysis, and visualization using modern analytical tools and techniques.
@@ -9,10 +9,10 @@ The primary objective of this data analytics project is to transform raw data in
 Organizations often accumulate large volumes of data but struggle to extract meaningful insights. This project addresses this challenge by applying data analytics methodologies to uncover patterns, trends, and correlations that can inform business strategies and optimize performance.
 
 ### 🔧 Tools & Technologies Used:
-**Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-**Data Visualization:** Tableau / Power BI / Matplotlib
-**Data Sources:** CSV files, APIs, Databases
-**Other Tools:** Excel, Jupyter Notebook, Google Sheets
+**-Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+**-Data Visualization:** Tableau / Power BI / Matplotlib
+**-Data Sources:** CSV files, APIs, Databases
+**-Other Tools:** Excel, Jupyter Notebook, Google Sheets
 
 ### 📈 Project Workflow:
 **1. Data Collection**
